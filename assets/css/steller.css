@@ -7128,7 +7128,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #ff7a57 !important;
+  background-color: red !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -11389,7 +11389,7 @@ pre {
 }
 
 .progress {
-  background: #eaf0fc;
+  background: lightgrey;
   border-radius: 0.2rem;
   height: 3px;
   margin-bottom: 30px;
@@ -11419,7 +11419,7 @@ pre {
   width: 13px;
   height: 13px;
   border-radius: 50%;
-  background: #ff7a57;
+  /* background: #ff7a57; */
   box-shadow: 0 0 10px rgba(255, 122, 87, 0.5);
 }
 
