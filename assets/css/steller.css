@@ -11063,6 +11063,7 @@ pre {
   position: relative;
   width: 100%;
   z-index: 8;
+  height: 300px;
 }
 
 .img-wrapper .overlay {
